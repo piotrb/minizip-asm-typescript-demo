@@ -1,0 +1,19 @@
+{
+  "name": "zip_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "a.js",
+  "scripts": {
+    "start": "ts-node src/index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minizip-asm.js": "^1.0.10"
+  },
+  "devDependencies": {
+    "@types/node": "^11.10.5",
+    "ts-node": "^8.0.3",
+    "typescript": "^3.3.3333"
+  }
+}
